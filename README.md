@@ -1,6 +1,5 @@
 # React-iso8583
 
-kaya.alicihad@gmail.com
 https://github.com/alicihad/React-Iso8583
 
 # DESCRIPTION
