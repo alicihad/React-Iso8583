@@ -1,11 +1,11 @@
-# node-iso8583
+# React-iso8583
 
-Jafar Shadiq reekoheek [at] gmail [dot] com
-http://github.com/reekoheek/node-iso8583
+kaya.alicihad@gmail.com
+https://github.com/alicihad/React-Iso8583
 
 # DESCRIPTION
 
-node-iso8583 is a Node.js addon for parsing and packing ISO 8583.
+React-iso8583 is a Node.js addon for parsing and packing ISO 8583.
 ```
 
 # REQUIREMENTS
@@ -19,7 +19,7 @@ To be defined
 # SOURCE INSTALL
 
 ``` bash
-$ git clone git://github.com/reekoheek/node-iso8583.git
+$ git clone https://github.com/alicihad/React-Iso8583.git
 $ cd node-iso8583
 $ node ./test
 ```
