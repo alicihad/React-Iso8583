@@ -18,7 +18,7 @@ To be defined
 # SOURCE INSTALL
 
 ``` bash
-$ git clone https://github.com/alicihad/React-Iso8583.git
+$ git clone git://github.com/alicihad/React-Iso8583.git
 $ cd node-iso8583
 $ node ./test
 ```
